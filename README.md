@@ -1,5 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+The project was created to search for food recipe through https://developer.edamam.com/edamam-docs-recipe-api
+Things covered:
+ -Fetch data from an api with react
+- How useState and useEffect work
+- How to pass down data in react with props
+Credit goes to DevEd
 ## Available Scripts
 
 In the project directory, you can run:
