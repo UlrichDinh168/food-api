@@ -1,9 +1,10 @@
 The project was created to search for food recipe through https://developer.edamam.com/edamam-docs-recipe-api
+Credit goes to DevEd
 Things covered:
  - Fetch data from an api with react
  - How useState and useEffect work
  - How to pass down data in react with props
-- Credit goes to DevEd
+
 ## Available Scripts
 
 In the project directory, you can run:
